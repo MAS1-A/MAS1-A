@@ -39,10 +39,16 @@ Deeply invested in algorithmic engineering and structural efficiency, solving co
 
 ## 📊 GitHub Ecosystem Diagnostics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAS1-A&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAS1-A&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
+> ⚡ **System Status:** Operational | **Runtime Environment:** Managed Portfolio
+
+| Diagnostic Layer | Skill Proficiency | Primary Technical Architecture |
+| :--- | :---: | :--- |
+| 🧠 **Predictive ML Pipelines** | `Advanced` | Ensemble Trees, LightGBM, Optuna, Scikit-Learn |
+| 💻 **Algorithmic Engineering** | `Expertise` | C++17, Standard Template Library (STL), Memory Guardrails |
+| 🗄️ **Data Architecture & Processing** | `Scale Optimized` | Pandas, NumPy, SQLite Vector Engineering, Matrix Downcasting |
+| 🚀 **Version Control & DevOps** | `Git Flow` | Local Workspace Initialization, Remote Distribution, Pruning |
+
+---
 
 ---
 
